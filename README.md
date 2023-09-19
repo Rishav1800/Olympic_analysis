@@ -1,8 +1,13 @@
 # Olympic_analysis
+
 Data Source link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
-/nExploratory Data Analysis on 120 years of olympic history data using SQL.
+
+Exploratory Data Analysis on 120 years of olympic history data using SQL.
+
 Conducted a comprehensive analysis of 120 years of Olympic Games history using SQL queries, employing advanced functions such as aggregates, joins, window functions, CTEs, and data ordering techniques.
+
 Below are the 20  questions that have been analyzed.
+
 1. How many olympics games have been held?
 2. List down all Olympics games held so far.
 3. Mention the total no of nations who participated in each olympics game?
