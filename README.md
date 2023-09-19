@@ -1,5 +1,5 @@
 # Olympic_analysis
-Data Source link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+Data Source link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results /
 Exploratory Data Analysis on 120 years of olympic history data using SQL.
 Conducted a comprehensive analysis of 120 years of Olympic Games history using SQL queries, employing advanced functions such as aggregates, joins, window functions, CTEs, and data ordering techniques.
 Below are the 20  questions that have been analyzed.
